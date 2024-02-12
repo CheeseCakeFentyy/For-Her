@@ -1,0 +1,137 @@
+*{
+    background-image: url(sunflower-yellow-sky.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: soft-light;
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.confess{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(182, 5, 5);
+    padding-top: 5%;
+}
+
+@keyframes fadein{
+    from{opacity: 0%;}
+    to{opacity: 100%;}
+}
+.wait{
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(182, 5, 5);
+    background: transparent;
+    padding-top: 15%;
+    padding-bottom: 25%;
+    border: 25%;
+    animation-name: fadein;
+    animation-duration: 3s;
+    animation-timing-function: ease-in;
+}
+
+.confess p{
+    background: transparent;
+}
+
+
+@keyframes slideinleft{
+    from{transform: translateX(-900px);}
+    to{transform: translateX(0);}
+}
+
+.p1{
+    animation-name: slideinleft;
+    animation-duration: 2s;
+    animation-timing-function: ease-in;
+}
+
+.p2{
+    animation-name: slideinleft;
+    animation-duration: 2.5s;
+    animation-timing-function: ease-in;
+}
+
+.p3{
+    animation-name: slideinleft;
+    animation-duration: 3s;
+    animation-timing-function: ease-in;
+}
+
+.p4{
+    animation-name: slideinleft;
+    animation-duration: 3.5s;
+    animation-timing-function: ease-in;
+}
+
+.p5{
+    animation-name: slideinleft;
+    animation-duration: 4s;
+    animation-timing-function: ease-in;
+}
+
+.p6{
+    animation-name: slideinleft;
+    animation-duration: 4.5s;
+    animation-timing-function: ease-in;
+}
+
+.p7{
+    animation-name: slideinleft;
+    animation-duration: 5s;
+    animation-timing-function: ease-in;
+}
+
+.p8{
+    animation-name: slideinleft;
+    animation-duration: 5.5s;
+    animation-timing-function: ease-in;
+}
+
+.p9{
+    animation-name: slideinleft;
+    animation-duration: 7s;
+    animation-timing-function: ease-in;
+}
+
+.p10{
+    animation-name: slideinleft;
+    animation-duration: 7.5s;
+    animation-timing-function: ease-in;
+}
+
+.p11{
+    animation-name: slideinleft;
+    animation-duration: 8s;
+    animation-timing-function: ease-in;
+}
+
+.p12{
+    animation-name: slideinleft;
+    animation-duration: 8.5s;
+    animation-timing-function: ease-in;
+}
+
+.p13{
+    animation-name: slideinleft;
+    animation-duration: 9s;
+    animation-timing-function: ease-in;
+}
+
+.p14{
+    animation-name: slideinleft;
+    animation-duration: 9.5s;
+    animation-timing-function: ease-in;
+}
+
+.p15{
+    animation-name: slideinleft;
+    animation-duration: 10s;
+    animation-timing-function: ease-in;
+}

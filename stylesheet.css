@@ -1,0 +1,64 @@
+*{
+    padding-top: 2%;
+    margin: 0%;
+    background-image: url(playground-shooting-star-es8xpv903z3wvjai.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    align-items: center;
+
+}
+
+.container{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(241, 241, 241);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 800;
+    align-self: center;
+}
+
+.content{
+    padding-top: 5%;
+    text-align: center;
+    left: 5%;
+    right: 5%;
+
+}
+.heading{
+    padding-bottom: 25%;
+}
+
+.love{
+    padding-top: 25%;
+    text-align: center;
+    align-self: center;
+    background: transparent;
+}
+
+.love h2{
+    font-size: 32px;
+    margin-bottom: 25vh;
+}
+
+#button{
+    align-self: center;
+    size: 32px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    border-color: antiquewhite;
+    border-radius: 1em;
+    outline: none;
+    background: rgb(70, 130, 10);
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+
+}
+
+.heading span{
+    color: rgb(223, 9, 9);
+    size: 40px;
+    letter-spacing: 0.5vw;
+    position: relative;
+}
